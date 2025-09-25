@@ -47,7 +47,7 @@ def deux_tour():
    
    
    
-   return "candidats gagnant"
+  
 
 
 def lastman_standing():
